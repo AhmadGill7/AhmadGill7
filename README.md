@@ -1,4 +1,4 @@
-# Ahmad Gill - MERN Stack Developer at Codixsol
+# Ahmad Gill - MERN Stack Developer
 
 ## 💫 About Me
 As a MERN Stack Developer at Codixsol, I am passionate about building the next generation of decentralized applications that drive the Web3.0 revolution. I leverage my expertise in MongoDB, Express.js, React.js, and Node.js to architect, develop, and deploy scalable and secure solutions tailored to the evolving needs of our clients in the blockchain and cryptocurrency domains.
