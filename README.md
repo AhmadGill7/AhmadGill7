@@ -29,10 +29,6 @@ My role extends beyond writing code; I'm a problem-solver, a creative thinker, a
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 ## 📊 GitHub Stats
-![Ahmad Gill's GitHub stats](https://github-readme-stats.vercel.app/api?username=AhmadGill7&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
-
-![Ahmad Gill's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AhmadGill7&theme=dark&hide_border=false)
-
 ![Ahmad Gill's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AhmadGill7&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
