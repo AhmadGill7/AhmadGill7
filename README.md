@@ -8,7 +8,6 @@ At Codixsol, I thrive in a dynamic environment where I collaborate with forward-
 My role extends beyond writing code; I'm a problem-solver, a creative thinker, and a proactive contributor to the ever-evolving world of Web3.0. Committed to continuous learning, I stay ahead of the curve in the fast-paced blockchain technology landscape, ensuring that the applications we build are at the forefront of innovation.
 
 ## 🌐 Socials
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/m_a_gill_)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ahmadgill/)
 
 ## 💻 Tech Stack
