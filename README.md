@@ -28,8 +28,15 @@ My role extends beyond writing code; I'm a problem-solver, a creative thinker, a
 ## 📊 GitHub Stats
 ![Ahmad Gill's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AhmadGill7&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
-![Ahmad Gill's GitHub Trophies](https://github-profile-trophy.vercel.app/?username=AhmadGill7&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+###
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com/?user=usama7365&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" />
+</div>
+
+###
+
+<img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 
 ## ✍️ Random Dev Quote
 ![Random Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
