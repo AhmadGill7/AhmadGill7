@@ -31,7 +31,7 @@ My role extends beyond writing code; I'm a problem-solver, a creative thinker, a
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=usama7365&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" />
+  <img src="https://streak-stats.demolab.com/?user=AhmadGill7&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" />
 </div>
 
 ###
