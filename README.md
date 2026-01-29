@@ -18,8 +18,9 @@ My engineering approach emphasizes **scalability, security, reliability**, and *
   </a>
 </div>
 
-## 📊 GitHub Stats
-![Ahmad Gill's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AhmadGill7&theme=dark&hide_border=false&count_private=true&layout=compact)
+##  Leetcode
+
+My Leetcode Profile:  [Muhammad Ahmad](https://leetcode.com/u/Muhammad_Ahmad7)
 
 ## ✍️ Random Dev Quote
 ![Random Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
