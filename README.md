@@ -4,7 +4,7 @@
 Software Engineer specializing in **full-stack development, Web3 infrastructure, and distributed system design**. I build, deploy, and operate **production-grade decentralized applications** using the MERN stack, EVM-based smart contracts, and modern DevOps practices.
 
 I have worked on several **live, public Web3 projects**, including a decentralized exchange on **Kaspa KVM**, a token launch and fundraising platform on **Monad EVM**, and a **cross-chain bridge (Kaspa ↔ BSC ↔ Ethereum ↔ Base)** built with Hyperlane. My involvement spans **system design, smart contracts, backend services, infrastructure, and deployments**.  
-Explore live demos and project details on my portfolio: [muhammadahmad.me](https://muhammadahmad.me).
+Explore live demos and project details on my portfolio: [muhammadahmad.dev](https://muhammadahmad.dev).
 
 My engineering approach emphasizes **scalability, security, reliability**, and **clean architecture**, with hands-on experience across **smart contract development, backend APIs, CI/CD, and cloud deployments**. I am currently advancing my expertise in **system design, data structures & algorithms, and AI / agentic systems**, aiming to build intelligent, high-performance platforms at the intersection of **Web3, AI, and distributed computing**.
 
